@@ -1,7 +1,7 @@
-#Learning Objectives
+# Learning Objectives
 Understanding fundamental algorithms and data structures underlying the storage and manipulation of data by a relational database management system and select topics pertaining to non-traditional data models and applications, including document management, spatial data management, graph data management, and NoSQL (not-only SQL) systems.
 
-##Topics:
+## Topics:
 
 SQL and relational algebra: brief review, equivalence, and compiling SQL into algebraic expressions
 Recursive SQL and querying graph databases
