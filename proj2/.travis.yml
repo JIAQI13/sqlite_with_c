@@ -1,0 +1,11 @@
+language: c
+
+before_install:
+  - sudo apt-get install -y cppcheck
+
+script:
+  - cd q3
+  - mkdir -p bin
+  - mkdir -p obj
+  - cppcheck ./src/solution.c -I./include
+  - make test

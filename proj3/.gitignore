@@ -1,0 +1,3 @@
+*.o
+*.out
+part2_rtree.db
